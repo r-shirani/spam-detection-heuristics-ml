@@ -1,5 +1,5 @@
 # spam-detection-heuristics-ml
-Spam detection using heuristic rules and machine learning (Naïve Bayes, SVM) on TREC 2007 dataset.
+Spam detection using heuristic rules and machine learning (Naïve Bayes, SVM) on the TREC 2007 dataset.
 
 # 📄 README: Assignment 1 - Spam Detection with Rule-Based & Machine Learning Methods
 
@@ -112,40 +112,35 @@ Substitute the Naive Bayes classifier with another model (e.g., Logistic Regress
 📁 1.a
 ├── blacklist.pkl
 ├── email_read_util.py
-├── HW1.py
-└── __pycache__/
+└── HW1.py
+
 
 📁 1.b
 ├── blacklist.pkl
 ├── email_read_util.py
-├── HW1.py
-└── __pycache__/
+└── HW1.py
+
 
 📁 1.c
 ├── blacklist.pkl
 ├── email_read_util.py
-├── HW1.py
-└── __pycache__/
+└── HW1.py
+
 
 📁 2.a
 ├── cross/
 │   ├── cross_mnb.py
-│   ├── email_read_util.py
-│   └── __pycache__/
+│   └── email_read_util.py
 ├── sample/
 │   ├── sample_mnb.py
-│   ├── email_read_util.py
-│   └── __pycache__/
-
+│   └── email_read_util.py
 📁 2.b
 ├── cross/
 │   ├── cross_svm.py
-│   ├── email_read_util.py
-│   └── __pycache__/
+│   └── email_read_util.py
 ├── sample/
 │   ├── sample_svm.py
-│   ├── email_read_util.py
-│   └── __pycache__/
+│   └── email_read_util.py
 ```
 
 ---
